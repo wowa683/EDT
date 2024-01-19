@@ -40,4 +40,5 @@
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
   <catalogs>Catalog.Справочник123</catalogs>
+  <enums>Enum.Перечисление1</enums>
 </mdclass:Configuration>
