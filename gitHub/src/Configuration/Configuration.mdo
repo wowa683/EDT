@@ -39,6 +39,7 @@
     <languageCode>ru</languageCode>
   </languages>
   <catalogs>Catalog.Номенклатура</catalogs>
+  <catalogs>Catalog.Справочник</catalogs>
   <catalogs>Catalog.Справочник123</catalogs>
   <enums>Enum.Перечисление1</enums>
 </mdclass:Configuration>
